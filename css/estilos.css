@@ -424,3 +424,14 @@ footer{
         font-size: 20px;
     }
 }
+.map {
+    height: 500px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
+
+}
